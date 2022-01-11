@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- /*
+ * MAGIX CMS Copyright (c) 2008 - 2018 Gerits Aurelien,
+ * http://www.magix-dev
+ * Dual licensed under the MIT AND GPL Version 3 licenses.
+ */-->
+<config>
+	<authorized>
+		<allow_access>*</allow_access>
+	</authorized>
+	<data>
+		<authors>
+			<author>
+				<name>Salvatore Di Salvo</name>
+				<website href="http://www.disalvo-infographiste.be" />
+			</author>
+		</authors>
+		<release>
+			<date_create>10/08/2021</date_create>
+			<date_update>10/08/2021</date_update>
+			<version>1.0.0</version>
+			<phase>Stable</phase>
+		</release>
+		<support>
+			<ticket href="https://github.com/magix-cms/magixcms/issues"></ticket>
+			<git href="https://github.com/magix-cms/magixcms"></git>
+		</support>
+	</data>
+</config>
